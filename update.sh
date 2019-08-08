@@ -23,12 +23,4 @@ Codename: Tweaky
 Architectures: iphoneos-arm
 Components: main
 Description: Tweaky ©
-MD5Sum:
- '$Packagesmd5''$PackagesBytes' Packages
- '$Packagesbzmd5''$PackagesbzBytes' Packages.bz2
- '$Packagesxzmd5''$PackagesgzBytes' Packages.gz
-SHA256:
- '$Packagessha256''$PackagesBytes' Packages
- '$Packagesbzsha256''$PackagesbzBytes' Packages.bz2
- '$Packagesxzsha256''$PackagesgzBytes' Packages.gz
-' >> Release
+'>> Release
