@@ -6,12 +6,3 @@ Codename: Tweaky
 Architectures: iphoneos-arm
 Components: main
 Description: Tweaky ©
-MD5Sum:
- MD5 1971 Packages
- MD5 904 Packages.bz2
- MD5 758 Packages.gz
-SHA256:
- ceded1e2122836315b397972ffef895b65f1ea9ecaa40d25467689861e313abf 1971 Packages
- 8bdf3133d1e7f1f6db6468f672cb47fbe4d96c64d7a0c1bd09cc892f2f1ac882 904 Packages.bz2
- c7343ee3e1c1e759bd045c07173b7dd0f701fed5bc3b8f3b84b86ba8f5bb30da 758 Packages.gz
-
