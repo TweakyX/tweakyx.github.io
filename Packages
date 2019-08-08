@@ -21,12 +21,12 @@ Architecture: iphoneos-arm
 Maintainer: Tweaky <admin@tweaky.com>
 Depends: mobilesubstrate
 Filename: debfiles/biz.tweaky.uncoverpubgm013_0.13_iphoneos-arm.deb
-Size: 94792
-MD5sum: 7a4a77f1fe5cd9d0bc095b8b678770ec
-SHA1: c246ca43ed576fce270497f72f5c3d2c1df6f76a
-SHA256: 3d4f21d2e105acaf89bb5ef95ad142c46f6ae4c94adc212244f528c73b42ab8b
+Size: 94854
+MD5sum: 3b9aeb0c0f33403f3781a29fa4f2ca12
+SHA1: 006e9e98dbf6c8d887d4e9ae1ab78e8207ed0fbd
+SHA256: 25323a044d3d081dfe289d0cec59f885614fba363336bab22f94613e8835f6ee
 Section: PUBG HACK
-Description: للاصدارات IOS 11 - 12
+Description: سرعة سيارة بدون قفز - Speed Car No Super Jump (للإصدارات 11-12)
 Author: Tweaky <admin@tweaky.com>
 Name: PUBG HACK 0.13.5 ( PREMIUM )
 Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/FastCar.json
@@ -38,12 +38,12 @@ Architecture: iphoneos-arm
 Maintainer: Tweaky <admin@tweaky.com>
 Depends: mobilesubstrate
 Filename: debfiles/biz.tweaky.uncoverpubgm0130_0.13b_iphoneos-arm.deb
-Size: 96054
-MD5sum: ad0cb2a00804e1f0bb671d78c43f0dc4
-SHA1: 4b5d8914db7ae73642102455b42abfc9af20ddc9
-SHA256: 40e0d2d61f4613c4149d4d5724e27a76401c636b0bbda9dfff33f74a0dcfa70b
+Size: 96120
+MD5sum: 2102e53c585b0279b81d01ede583a36a
+SHA1: 6d5cf17886e942a6077e03d3b0a3222c97b2b9ee
+SHA256: 753c1c09ed70e4e4ffeaf27325d8b5e3818c52176d12b30ec0b4bfd2f814001a
 Section: PUBG HACK
-Description: للاصدارات IOS 11 - 12
+Description: قفز عالي بدون سرعة سيارة - Super Jump No Speed Car (للإصدارات 11-12)
 Author: Tweaky <admin@tweaky.com>
 Name: PUBG HACK 0.13.5 ( PREMIUM )
 Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/SuperJump.json
