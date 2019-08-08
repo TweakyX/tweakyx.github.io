@@ -1,0 +1,61 @@
+{
+  "minVersion": "0.3",
+  "headerImage": "https://tweakyx.github.io/pubg.png",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "ModMenu With Super Jump Hack",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "0.13.5",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "$25",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "title": "Developer",
+          "text": "Tweaky",
+          "class": "DepictionTableTextView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "0.13.5",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
