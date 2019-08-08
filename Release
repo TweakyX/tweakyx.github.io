@@ -1,11 +1,11 @@
-Origin: BandarHelal Repo
-Label: BandarHelal Repo
+Origin: Tweaky ©
+Label: Tweaky Repo ©
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: Tweaky
 Architectures: iphoneos-arm
 Components: main
-Description: BandarHelal Main Repo
+Description: Tweaky ©
 MD5Sum:
  MD5 1971 Packages
  MD5 904 Packages.bz2
