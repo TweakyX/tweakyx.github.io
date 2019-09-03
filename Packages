@@ -1,51 +1,16 @@
-Package: biz.tweaky.pubgm013all
-Version: 0.13b
+Package: com.anyname.pubgmm14
+Version: 0.14.0
 Architecture: iphoneos-arm
-Maintainer: Tweaky <admin@tweaky.com>
+Maintainer: PUBGMM
+Installed-Size: 1532
 Depends: mobilesubstrate
-Filename: debfiles/biz.tweaky.pubgm013all_0.13b_iphoneos-arm.deb
-Size: 96030
-MD5sum: 00dff92788b24b1d9627a639bea85ce1
-SHA1: e54f2eab9aca1a3988c3f4393d42e0e992437b8a
-SHA256: 22fbb6a508b1c8717f78499bb45c6b1a8c2e4704eba29713378d85055a883e97
-Section: Pubg Hack
-Description: للاصدارات IOS 9 - 10
-Author: Tweaky <admin@tweaky.com>
-Name: PUBGM 0.13 IOS 9 - 10 ( PREMIUM )
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/all.json
-Sponsor: tweaky <AUTOFILL_SITE>
-
-Package: biz.tweaky.uncoverpubgm013
-Version: 0.13
-Architecture: iphoneos-arm
-Maintainer: Tweaky <admin@tweaky.com>
-Depends: mobilesubstrate
-Filename: debfiles/biz.tweaky.uncoverpubgm013_0.13_iphoneos-arm.deb
-Size: 94854
-MD5sum: 3b9aeb0c0f33403f3781a29fa4f2ca12
-SHA1: 006e9e98dbf6c8d887d4e9ae1ab78e8207ed0fbd
-SHA256: 25323a044d3d081dfe289d0cec59f885614fba363336bab22f94613e8835f6ee
-Section: PUBG HACK
-Description: سرعة سيارة بدون قفز - Speed Car No Super Jump (للإصدارات 11-12)
-Author: Tweaky <admin@tweaky.com>
-Name: PUBG HACK 0.13.5 ( PREMIUM )
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/FastCar.json
-Sponsor: tweaky <AUTOFILL_SITE>
-
-Package: biz.tweaky.uncoverpubgm0130
-Version: 0.13b
-Architecture: iphoneos-arm
-Maintainer: Tweaky <admin@tweaky.com>
-Depends: mobilesubstrate
-Filename: debfiles/biz.tweaky.uncoverpubgm0130_0.13b_iphoneos-arm.deb
-Size: 96120
-MD5sum: 2102e53c585b0279b81d01ede583a36a
-SHA1: 6d5cf17886e942a6077e03d3b0a3222c97b2b9ee
-SHA256: 753c1c09ed70e4e4ffeaf27325d8b5e3818c52176d12b30ec0b4bfd2f814001a
-Section: PUBG HACK
-Description: قفز عالي بدون سرعة سيارة - Super Jump No Speed Car (للإصدارات 11-12)
-Author: Tweaky <admin@tweaky.com>
-Name: PUBG HACK 0.13.5 ( PREMIUM )
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/SuperJump.json
-Sponsor: tweaky <AUTOFILL_SITE>
+Filename: debfiles/biz.tweaky.pubg.deb
+Size: 271762
+MD5sum: f70196c08659f13d97142b2dba918eb6
+SHA1: 8c4af707a4977693c8d36dabc79345cbf2619e11
+SHA256: 9015db2a47213ee2316fef1b36002347562a6531c6699f6c586a5114e3f0001b
+Section: Tweaks
+Author: PUBGMM
+Name: PUBG MODMENU v0.14
+Sponsor: PUBGMM
 

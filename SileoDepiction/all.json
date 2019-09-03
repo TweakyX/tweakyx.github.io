@@ -6,7 +6,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "ModMenu For IOS 9 - 10 || (للإصدارات 9-10)",
+            "title": "Hack PUBGMobile",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -24,7 +24,7 @@
         },
         {
           "title": "Version",
-          "text": "0.13.5",
+          "text": "0.14",
           "class": "DepictionTableTextView"
         },
         {
@@ -48,7 +48,7 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "0.13.5",
+          "title": "0.14",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
