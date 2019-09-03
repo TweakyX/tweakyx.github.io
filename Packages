@@ -1,4 +1,4 @@
-Package: com.anyname.pubgmm14
+Package: com.tweaky.pubgmm14
 Version: 0.14.0
 Architecture: iphoneos-arm
 Maintainer: PUBGMM
@@ -6,9 +6,9 @@ Installed-Size: 1532
 Depends: mobilesubstrate
 Filename: debfiles/biz.tweaky.pubg.deb
 Size: 271762
-MD5sum: f70196c08659f13d97142b2dba918eb6
-SHA1: 8c4af707a4977693c8d36dabc79345cbf2619e11
-SHA256: 9015db2a47213ee2316fef1b36002347562a6531c6699f6c586a5114e3f0001b
+MD5sum: 605ac76516f76e936f6d91958ff15be9
+SHA1: bd9b8d02f2b5240ae19a51aa815f925f5adacfd0
+SHA256: 26db57d4a5a0d58e467555b65b025343a83f0c099a279646fdabd39b62c1b012
 Section: Tweaks
 Author: PUBGMM
 Name: PUBG MODMENU v0.14
