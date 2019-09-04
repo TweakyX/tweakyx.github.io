@@ -1,16 +1,18 @@
-Package: com.tweaky.pubgmm14
+Package: com.anyname.pubgmm14
 Version: 0.14.0
 Architecture: iphoneos-arm
-Maintainer: PUBGMM
+Maintainer: tweaky <AUTOFILL_SITE>
 Installed-Size: 1532
 Depends: mobilesubstrate
-Filename: debfiles/biz.tweaky.pubg.deb
-Size: 271762
-MD5sum: 605ac76516f76e936f6d91958ff15be9
-SHA1: bd9b8d02f2b5240ae19a51aa815f925f5adacfd0
-SHA256: 26db57d4a5a0d58e467555b65b025343a83f0c099a279646fdabd39b62c1b012
+Filename: debfiles/com.anyname.pubgmm14_0.14.0_iphoneos-arm.deb
+Size: 172292
+MD5sum: 6ae055d4bf605e34ca90fc19f1b655ca
+SHA1: 3fb689566f6f56c2b2c553317c4484e50c35efe9
+SHA256: 0f8809aa0bba2842bbe776aa32cabbfff91d87cbe9547e06715c7e9133a460e2
 Section: Tweaks
-Author: PUBGMM
+Description: Hack PUBG MODMENU v14
+Author: Tweaky <AUTOFILL_SITE>
 Name: PUBG MODMENU v0.14
-Sponsor: PUBGMM
+Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/new.json
+Sponsor: tweaky <AUTOFILL_SITE>
 
