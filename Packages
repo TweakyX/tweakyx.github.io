@@ -1,18 +1,34 @@
-Package: com.anyname.pubgmm14
-Version: 0.14.0
+Package: com.tweaky.pubg15ar
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: tweaky <AUTOFILL_SITE>
-Installed-Size: 1532
+Maintainer: Tweaky
+Installed-Size: 1156
 Depends: mobilesubstrate
-Filename: debfiles/com.anyname.pubgmm14_0.14.0_iphoneos-arm.deb
-Size: 172428
-MD5sum: 8f5ddb15781225dadbeb8eea8714594d
-SHA1: 1627dbfce85d9e173f2c33ab33a01297769b541c
-SHA256: 2c914029ebc15e7f92d9e24398774baddd4d983406b1b660f38f43dcf2d89dbb
+Filename: debfiles/com.tweaky.pubg15ar_1.0_iphoneos-arm.deb
+Size: 156960
+MD5sum: 65929381708210d1a501624745b439fd
+SHA1: fb2008e1f612886cf896d06b6e46cb195d6a2e8f
+SHA256: 5f56c3586cba8fcade0395698f2aefdae901bcaca64edfce4c98679dba328f97
 Section: Tweaks
-Description: Hack PUBG MODMENU v14
-Author: Tweaky <AUTOFILL_SITE>
-Name: PUBG MODMENU v0.14
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/new.json
-Sponsor: tweaky <AUTOFILL_SITE>
+Description: هاك ببجي نسخه عربيه
+Author: Tweaky
+Name: PUBG-MOBILE Mod Menu (Arabic Version)
+Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
+
+Package: com.tweaky.pubg15en
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Tweaky
+Installed-Size: 1156
+Depends: mobilesubstrate
+Filename: debfiles/com.tweaky.pubg15en_1.0_iphoneos-arm.deb
+Size: 157080
+MD5sum: d2f4d6d61030de70044ec68c1a814272
+SHA1: fc302cdc970ed30c0a8c51060ff621191266a150
+SHA256: d16495609388478775c68aa9bd901401b9fbf5abb4542bf1d9cced380cea65ec
+Section: Tweaks
+Description: هاك ببجي نسخه انجليزيه
+Author: Tweaky
+Name: PUBG-MOBILE Mod Menu (English Version)
+Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newEN.json
 

@@ -6,11 +6,7 @@
       "tabname": "Details",
       "views": [
         {
-<<<<<<< HEAD:SileoDepiction/new.json
-          "title": "ModMenu For PUBG v14",
-=======
-            "title": "Hack PUBGMobile",
->>>>>>> 22567040ef4430e854dc60f5a769dd47fba19457:SileoDepiction/all.json
+          "title": "ModMenu For PUBG v15 (Arabic Version)",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -28,12 +24,12 @@
         },
         {
           "title": "Version",
-          "text": "0.14",
+          "text": "0.15",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Price",
-          "text": "$30",
+          "text": "$42",
           "class": "DepictionTableTextView"
         },
         {
@@ -52,11 +48,7 @@
       "tabname": "Changelog",
       "views": [
         {
-<<<<<<< HEAD:SileoDepiction/new.json
-          "title": "0.14.0",
-=======
-          "title": "0.14",
->>>>>>> 22567040ef4430e854dc60f5a769dd47fba19457:SileoDepiction/all.json
+          "title": "0.15.0",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
