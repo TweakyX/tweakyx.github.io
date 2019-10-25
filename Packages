@@ -15,6 +15,23 @@ Author: Tweaky
 Name: PUBG Mod-Menu (AR)
 Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
 
+Package: com.tweaky.pubg15ard
+Version: 1.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: Tweaky
+Installed-Size: 1156
+Depends: mobilesubstrate
+Filename: debfiles/com.tweaky.pubg15ard_1.1-9+debug_iphoneos-arm.deb
+Size: 157012
+MD5sum: 4e197f63016370e67be15152164e6125
+SHA1: 1c1a2a3641d0fc1ef93c2e7752ec4c7d82042f0b
+SHA256: bddcbb34959566e443e466f52efb63ad9c9f80b6db7b1f0712c1a17f95476890
+Section: Tweaks
+Description: هاك ببجي نسخه عربيه مع خاصية الدمج (اكثر عرضة للباند)
+Author: Tweaky
+Name: PUBG Mod-Menu (AR + Damage)
+Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
+
 Package: com.tweaky.pubg15en
 Version: 1.1-1+debug
 Architecture: iphoneos-arm
@@ -31,4 +48,21 @@ Description: هاك ببجي نسخه انجليزيه
 Author: Tweaky
 Name: PUBG Mod-Menu (EN)
 Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newEN.json
+
+Package: com.tweaky.pubg15end
+Version: 1.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Tweaky
+Installed-Size: 1156
+Depends: mobilesubstrate
+Filename: debfiles/com.tweaky.pubg15end_1.1-2+debug_iphoneos-arm.deb
+Size: 157298
+MD5sum: 04829202b3ac77e94ebf17e63008505c
+SHA1: 257c160c78ca68b43f92ad48ec72a3a4fc923c21
+SHA256: 9880f550475d7b26f4170561420f5f2b32c4fe8df7de5ed87a9c1efd4e27bd71
+Section: Tweaks
+Description: هاك ببجي نسخه انجليزيه مع الدمج (اكبر عرضه للباند)
+Author: Tweaky
+Name: PUBG Mod-Menu (EN + Damage)
+Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newEND.json
 
