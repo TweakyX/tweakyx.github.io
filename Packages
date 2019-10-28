@@ -32,6 +32,40 @@ Author: Tweaky
 Name: PUBG Mod-Menu (AR + Damage)
 Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
 
+Package: com.tweaky.pubg15arsafe
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Tweaky
+Installed-Size: 1156
+Depends: mobilesubstrate
+Filename: debfiles/com.tweaky.pubg15arsafe_1.1-1+debug_iphoneos-arm.deb
+Size: 146834
+MD5sum: 02d687841d64f666ff2cb2aa3f8d4d60
+SHA1: 40263d9f0bbc03b2b8876d9aa3b1bfbce5dcd60d
+SHA256: 279c0fa5d29b7d415fa79863b24e3586bd9929ae643136d1d7399b48c623c483
+Section: Tweaks
+Description: هاك ببجي نسخه عربيه النسخةالآمنة
+Author: Tweaky
+Name: PUBG Mod-Menu (AR + Safe)
+Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
+
+Package: com.tweaky.pubg15arsafeaim
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Tweaky
+Installed-Size: 1172
+Depends: mobilesubstrate
+Filename: debfiles/com.tweaky.pubg15arsafeaim_1.1-1+debug_iphoneos-arm.deb
+Size: 148930
+MD5sum: c49cc85f39ef88b82a9ad6f5236f1458
+SHA1: 9fd5a02dbfaf3e0478a38cafaebbef0aa2985d69
+SHA256: 006352e76b709889130985d8c36b2ddfa272115cc3f65bf3628820b8374a3490
+Section: Tweaks
+Description: هاك ببجي نسخه عربيه مع خاصة الايمبوت النسخةالآمنة
+Author: Tweaky
+Name: PUBG Mod-Menu (AR + Aimbot)
+Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
+
 Package: com.tweaky.pubg15en
 Version: 1.1-1+debug
 Architecture: iphoneos-arm
