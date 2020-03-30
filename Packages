@@ -1,102 +1,17 @@
-Package: com.tweaky.pubg15ar
-Version: 1.1-4+debug
+Package: com.tweaky.pubg17arfd
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Tweaky
-Installed-Size: 1156
+Installed-Size: 2196
 Depends: mobilesubstrate
-Filename: debfiles/com.tweaky.pubg15ar_1.1-4+debug_iphoneos-arm.deb
-Size: 156636
-MD5sum: 8bcba1dbb675d47f7c64089819e33d8c
-SHA1: d91708fa63bb9356dcf02919650efe366c8bb89a
-SHA256: e26fd2644b1d69623773df7faa47f847cdb251b8178e8c19c2c6297cbe626de9
+Filename: debfiles/com.tweaky.pubg17arfd.deb
+Size: 784362
+MD5sum: 52a0af156190237c9957f9e327a39fbb
+SHA1: 7acccfcb7dce19185f5a9904a26c5d45859c2b91
+SHA256: a5ca94016f5afcb0f4522a0e62e9467a04bc4db0f7dfee80d99561b91c4b94b0
 Section: Tweaks
-Description: هاك ببجي نسخه عربيه
+Description: هاك ببجي نسخه عربيه مع خاصية فل دمج (اكثر عرضة للباند)
 Author: Tweaky
-Name: PUBG Mod-Menu (AR)
+Name: PUBG Mod-Menu (Full Damage)
 Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
-
-Package: com.tweaky.pubg15ard
-Version: 1.1-9+debug
-Architecture: iphoneos-arm
-Maintainer: Tweaky
-Installed-Size: 1156
-Depends: mobilesubstrate
-Filename: debfiles/com.tweaky.pubg15ard_1.1-9+debug_iphoneos-arm.deb
-Size: 157012
-MD5sum: 4e197f63016370e67be15152164e6125
-SHA1: 1c1a2a3641d0fc1ef93c2e7752ec4c7d82042f0b
-SHA256: bddcbb34959566e443e466f52efb63ad9c9f80b6db7b1f0712c1a17f95476890
-Section: Tweaks
-Description: هاك ببجي نسخه عربيه مع خاصية الدمج (اكثر عرضة للباند)
-Author: Tweaky
-Name: PUBG Mod-Menu (AR + Damage)
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
-
-Package: com.tweaky.pubg15arsafe
-Version: 1.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: Tweaky
-Installed-Size: 1156
-Depends: mobilesubstrate
-Filename: debfiles/com.tweaky.pubg15arsafe_1.1-1+debug_iphoneos-arm.deb
-Size: 146834
-MD5sum: 02d687841d64f666ff2cb2aa3f8d4d60
-SHA1: 40263d9f0bbc03b2b8876d9aa3b1bfbce5dcd60d
-SHA256: 279c0fa5d29b7d415fa79863b24e3586bd9929ae643136d1d7399b48c623c483
-Section: Tweaks
-Description: هاك ببجي نسخه عربيه النسخةالآمنة
-Author: Tweaky
-Name: PUBG Mod-Menu (AR + Safe)
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
-
-Package: com.tweaky.pubg15arsafeaim
-Version: 1.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: Tweaky
-Installed-Size: 1172
-Depends: mobilesubstrate
-Filename: debfiles/com.tweaky.pubg15arsafeaim_1.1-1+debug_iphoneos-arm.deb
-Size: 148930
-MD5sum: c49cc85f39ef88b82a9ad6f5236f1458
-SHA1: 9fd5a02dbfaf3e0478a38cafaebbef0aa2985d69
-SHA256: 006352e76b709889130985d8c36b2ddfa272115cc3f65bf3628820b8374a3490
-Section: Tweaks
-Description: هاك ببجي نسخه عربيه مع خاصة الايمبوت النسخةالآمنة
-Author: Tweaky
-Name: PUBG Mod-Menu (AR + Aimbot)
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newAR.json
-
-Package: com.tweaky.pubg15en
-Version: 1.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: Tweaky
-Installed-Size: 1156
-Depends: mobilesubstrate
-Filename: debfiles/com.tweaky.pubg15en_1.1-1+debug_iphoneos-arm.deb
-Size: 157660
-MD5sum: 46b72536ad1fbdb73beeee4f5cc3f0ae
-SHA1: ce869be68786d3445adfe55b19ed78e45493077e
-SHA256: 27c725b7cc237a6fcc11d90e7731d675be603f8655c67d934c9f206e8c5db522
-Section: Tweaks
-Description: هاك ببجي نسخه انجليزيه
-Author: Tweaky
-Name: PUBG Mod-Menu (EN)
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newEN.json
-
-Package: com.tweaky.pubg15end
-Version: 1.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: Tweaky
-Installed-Size: 1156
-Depends: mobilesubstrate
-Filename: debfiles/com.tweaky.pubg15end_1.1-2+debug_iphoneos-arm.deb
-Size: 157298
-MD5sum: 04829202b3ac77e94ebf17e63008505c
-SHA1: 257c160c78ca68b43f92ad48ec72a3a4fc923c21
-SHA256: 9880f550475d7b26f4170561420f5f2b32c4fe8df7de5ed87a9c1efd4e27bd71
-Section: Tweaks
-Description: هاك ببجي نسخه انجليزيه مع الدمج (اكبر عرضه للباند)
-Author: Tweaky
-Name: PUBG Mod-Menu (EN + Damage)
-Sileodepiction: https://raw.githubusercontent.com/TweakyX/tweakyx.github.io/master/SileoDepiction/newEND.json
 
